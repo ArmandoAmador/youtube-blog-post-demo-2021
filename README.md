@@ -22,7 +22,7 @@ The following is the information I go over on my Intro to HTML & CSS video on Yo
 
 ---
 
-### Learning Resources
+### MDN Learning HTML & CSS documentation
 
-https://developer.mozilla.org/en-US/docs/Web/HTML
-https://developer.mozilla.org/en-US/docs/Web/CSS
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
