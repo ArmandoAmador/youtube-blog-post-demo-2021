@@ -22,6 +22,14 @@ The following is the information I go over on my Intro to HTML & CSS video on Yo
 
 ---
 
+### Figma / Mockup Screenshot
+
+- [Figma File](https://www.figma.com/file/QlHxmBdo15pMxD8vlOG7KW/Blog-Post?node-id=0%3A1)
+
+#### Screenshot
+![Screen Shot 2021-09-26 at 3 57 24 PM](https://user-images.githubusercontent.com/5686847/134822327-cb5a0d37-3ca5-445b-9042-cfa90c2125ea.png)
+
+
 ### MDN Learning HTML & CSS documentation
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
