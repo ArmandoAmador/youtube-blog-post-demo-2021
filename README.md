@@ -1,6 +1,8 @@
 # Introduction to HTML & CSS
 
-## Part One | Intro to HTML
+The following is the information I go over on my Intro to HTML & CSS video on YouTube
+
+### Part One | Intro to HTML
 
 - What we're building: Blog Post Mockup
 - Why learn HTML & CSS?
@@ -10,8 +12,17 @@
 - Creating boilerplate
 - Building our markup
 
-## Part Two | Intro to CSS
+---
+
+### Part Two | Intro to CSS
 
 - What is CSS?
 - Creating a stylesheet
 - Styling our HTML
+
+---
+
+### Learning Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://developer.mozilla.org/en-US/docs/Web/CSS
